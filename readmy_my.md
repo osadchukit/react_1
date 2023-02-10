@@ -1,6 +1,6 @@
 instal react:
 https://create-react-app.dev/docs/getting-started/
-npx create-react-app
+npx create-react-app .
 
 <!-- ----------------------------------------- -->
 
