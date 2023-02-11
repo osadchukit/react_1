@@ -30,7 +30,10 @@ import { FaMapMarkerAlt } from 'react-icons/fa';
 <!-- ----------------------------------------- -->
 
 instal Emotion:
+https://emotion.sh/docs/install
 npm i @emotion/styled @emotion/react
+
+<!-- ----------------------------------------- -->
 
 echo "# react_1.1" >> README.md
 git init
